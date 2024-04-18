@@ -9,10 +9,8 @@ sites:
     url: https://kmhars.com
   - name: PPPOE Server
     url: https:/het094b3j1k.sn.mynetname.net
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: Speedtest Server
+    url: http://kmhars.ookla.databyte-network.com
     port: 80
     check: "tcp-ping"
     ipv6: false
