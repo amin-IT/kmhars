@@ -1,21 +1,23 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 249,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
-    "dailyMinutesDown": {}
+    "name": "KMHARS CORE",
+    "url": "hdh08hzryd0.sn.mynetname.net",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "kmhars-core",
+    "status": "down",
+    "uptime": "17.29%",
+    "uptimeDay": "17.29%",
+    "uptimeWeek": "17.29%",
+    "uptimeMonth": "17.29%",
+    "uptimeYear": "17.29%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-04-18": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 233,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   },
   {
