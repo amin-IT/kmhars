@@ -15,7 +15,7 @@ sites:
     url: forwardemail.net
     port: 80
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,8 +24,8 @@ status-website:
   baseUrl: /kmhars
   logoUrl: https://github.com/amin-IT/kmhars/blob/master/assets/kmhars%20logo.jpg
   name: KMHARS IT SOLUTIONS
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**We are a provider of IT services with a focus on network installation, support, consultancy, and maintenance."
+  introMessage: KMHARS is a leading Internet Service Provider (ISP) and complete IT solutions company founded in 2017.
   navbar:
     - title: Status
       href: /
