@@ -6,17 +6,17 @@ sites:
   - name: KMHARS CORE
     check: "tcp-ping"
     url: hdh08hzryd0.sn.mynetname.net
-    port: 80
+    #port: 80
   - name: Website
     url: https://kmhars.com
   - name: PPPOE Server
     check: "tcp-ping"
     url: het094b3j1k.sn.mynetname.net
-    port: 80
+    #port: 80
   - name: Speedtest Server
     check: "tcp-ping"
     url: kmhars.ookla.databyte-network.com
-    port: 80
+    #port: 80
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
