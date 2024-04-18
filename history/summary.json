@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hdh08hzryd0.sn.mynetname.net.ico",
     "slug": "kmhars-core",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-18": 25
+      "2024-04-18": 27
     }
   },
   {
@@ -43,11 +43,31 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pppoe-server",
     "status": "down",
-    "uptime": "9.58%",
-    "uptimeDay": "9.58%",
-    "uptimeWeek": "9.58%",
-    "uptimeMonth": "9.58%",
-    "uptimeYear": "9.58%",
+    "uptime": "1.25%",
+    "uptimeDay": "1.25%",
+    "uptimeWeek": "1.25%",
+    "uptimeMonth": "1.25%",
+    "uptimeYear": "1.25%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-04-18": 3
+    }
+  },
+  {
+    "name": "Speedtest Server",
+    "url": "http://kmhars.ookla.databyte-network.com",
+    "icon": "https://icons.duckduckgo.com/ip3/kmhars.ookla.databyte-network.com.ico",
+    "slug": "speedtest-server",
+    "status": "down",
+    "uptime": "9.48%",
+    "uptimeDay": "9.48%",
+    "uptimeWeek": "9.48%",
+    "uptimeMonth": "9.48%",
+    "uptimeYear": "9.48%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -56,41 +76,5 @@
     "dailyMinutesDown": {
       "2024-04-18": 0
     }
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "IPv6 test",
-    "url": "forwardemail.net",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "i-pv6-test",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 63,
-    "timeDay": 63,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
-    "dailyMinutesDown": {}
   }
 ]
