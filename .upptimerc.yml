@@ -4,18 +4,14 @@ repo: kmhars # The name of this repository
 
 sites:
   - name: KMHARS CORE
-    check: "ping"
-    url: hdh08hzryd0.sn.mynetname.net
+    check: "tcp-ping"
+    url: 103.190.139.187
     #port: 80
   - name: Website
     url: https://kmhars.com
-  - name: PPPOE Server
-    check: "ping"
-    url: het094b3j1k.sn.mynetname.net
-    #port: 80
   - name: Speedtest Server
-    check: "ping"
-    url: kmhars.ookla.databyte-network.com
+    check: "tcp-ping"
+    url: 103.190.139.187
     #port: 80
 
 status-website:
