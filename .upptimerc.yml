@@ -9,7 +9,7 @@ sites:
     port: 443
     maxResponseTime: 5000
     __dangerous__insecure: true
-  - name: Website
+  - name: KMHARS Website
     url: https://kmhars.com
   - name: Speedtest Server
     check: "tcp-ping"
