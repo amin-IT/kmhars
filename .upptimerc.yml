@@ -7,12 +7,14 @@ sites:
     check: "tcp-ping"
     url: 103.190.139.187
     port: 8291
+    maxResponseTime: 5000
   - name: Website
     url: https://kmhars.com
   - name: Speedtest Server
     check: "tcp-ping"
     url: 103.190.139.187
-    port: 0
+    #port: 0
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
