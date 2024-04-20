@@ -1,25 +1,21 @@
 [
   {
-    "name": "KMHARS CORE",
+    "name": "KMHARS Internet",
     "url": "hfj094ec6hm.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "kmhars-core",
+    "slug": "kmhars-internet",
     "status": "up",
-    "uptime": "4.21%",
-    "uptimeDay": "7.93%",
-    "uptimeWeek": "4.21%",
-    "uptimeMonth": "4.21%",
-    "uptimeYear": "4.21%",
-    "time": 251,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
-    "dailyMinutesDown": {
-      "2024-04-20": 822,
-      "2024-04-19": 1440,
-      "2024-04-18": 335
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 250,
+    "timeDay": 250,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
+    "dailyMinutesDown": {}
   },
   {
     "name": "KMHARS Website",
@@ -32,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1311,
-    "timeDay": 1311,
-    "timeWeek": 1311,
-    "timeMonth": 1311,
-    "timeYear": 1311,
+    "time": 1329,
+    "timeDay": 1329,
+    "timeWeek": 1329,
+    "timeMonth": 1329,
+    "timeYear": 1329,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 255,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 255,
+    "time": 254,
+    "timeDay": 254,
+    "timeWeek": 254,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "KMHARS 1st district",
+    "url": "124.107.65.108",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "kmhars-1st-district",
+    "status": "down",
+    "uptime": "48.48%",
+    "uptimeDay": "48.48%",
+    "uptimeWeek": "48.48%",
+    "uptimeMonth": "48.48%",
+    "uptimeYear": "48.48%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-04-20": 0
+    }
   }
 ]
