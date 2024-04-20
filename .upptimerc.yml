@@ -19,7 +19,7 @@ sites:
     __dangerous__insecure: true
   - name: KMHARS 1st District
     check: "tcp-ping"
-    url: 124.107.65.108
+    url: hef08x85kx6.sn.mynetname.net
     port: 80
     maxResponseTime: 5000
     __dangerous__insecure: true
