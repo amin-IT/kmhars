@@ -17,6 +17,7 @@ sites:
     port: 443
     maxResponseTime: 5000
     __dangerous__insecure: true
+    __dangerous__body_down: "ERR_CONNECTION_REFUSED"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
