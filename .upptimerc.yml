@@ -17,7 +17,7 @@ sites:
     port: 8080
     maxResponseTime: 5000
     __dangerous__insecure: true
-  - name: KMHARS 1st district
+  - name: KMHARS 1st District
     check: "tcp-ping"
     url: 124.107.65.108
     port: 80
