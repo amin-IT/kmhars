@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-core",
     "status": "up",
-    "uptime": "3.97%",
-    "uptimeDay": "7.46%",
-    "uptimeWeek": "3.97%",
-    "uptimeMonth": "3.97%",
-    "uptimeYear": "3.97%",
+    "uptime": "4.06%",
+    "uptimeDay": "7.62%",
+    "uptimeWeek": "4.06%",
+    "uptimeMonth": "4.06%",
+    "uptimeYear": "4.06%",
     "time": 250,
     "timeDay": 250,
     "timeWeek": 250,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1244,
-    "timeDay": 1244,
-    "timeWeek": 1244,
-    "timeMonth": 1244,
-    "timeYear": 1244,
+    "time": 1279,
+    "timeDay": 1279,
+    "timeWeek": 1279,
+    "timeMonth": 1279,
+    "timeYear": 1279,
     "dailyMinutesDown": {}
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-20": 929,
+      "2024-04-20": 932,
       "2024-04-19": 1440,
       "2024-04-18": 308
     }
