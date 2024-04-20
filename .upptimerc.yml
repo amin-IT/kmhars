@@ -11,7 +11,7 @@ sites:
     __dangerous__insecure: true
   - name: KMHARS Website
     url: https://kmhars.com
-  - name: Speedtest Server
+  - name: KMHARS Speedtest Server
     check: "tcp-ping"
     url: kmhars.ookla.databyte-network.com
     port: 8080
