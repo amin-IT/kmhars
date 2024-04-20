@@ -31,8 +31,10 @@ status-website:
   navbar:
     - title: Status
       href: https://amin-it.github.io/kmhars
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://kmhars.com
+    - title: Facebook
+      href: https://www.facebook.com/KmharsFiberInternet
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
