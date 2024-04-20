@@ -5,7 +5,7 @@ repo: kmhars # The name of this repository
 sites:
   - name: KMHARS CORE
     check: "tcp-ping"
-    url: 103.190.139.187
+    url: 103.190.139.186
     port: 443
     maxResponseTime: 5000
   - name: Website
