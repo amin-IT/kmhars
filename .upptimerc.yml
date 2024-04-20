@@ -6,13 +6,13 @@ sites:
   - name: KMHARS CORE
     check: "tcp-ping"
     url: 103.190.139.187
-    #port: 80
+    port: 0
   - name: Website
     url: https://kmhars.com
   - name: Speedtest Server
     check: "tcp-ping"
     url: 103.190.139.187
-    #port: 80
+    port: 0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
