@@ -14,7 +14,7 @@ sites:
   - name: Speedtest Server
     check: "tcp-ping"
     url: 103.190.139.187
-    port: 443
+    port: 80
     maxResponseTime: 5000
     __dangerous__insecure: true
     __dangerous__body_down: "ERR_CONNECTION_REFUSED"
