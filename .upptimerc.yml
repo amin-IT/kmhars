@@ -9,6 +9,12 @@ sites:
     port: 443
     maxResponseTime: 5000
     __dangerous__insecure: true
+    - name: KMHARS Backup Internet
+    check: "tcp-ping"
+    url: hdh08hzryd0.sn.mynetname.net
+    port: 443
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: KMHARS Website
     url: https://kmhars.com
   - name: KMHARS Speedtest Server
