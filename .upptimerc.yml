@@ -9,7 +9,7 @@ sites:
     port: 443
     maxResponseTime: 5000
     __dangerous__insecure: true
-    - name: KMHARS Backup Internet
+  - name: KMHARS Backup Internet
     check: "tcp-ping"
     url: hdh08hzryd0.sn.mynetname.net
     port: 443
