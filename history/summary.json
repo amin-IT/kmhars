@@ -88,5 +88,23 @@
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Google",
+    "url": "https://google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 201,
+    "timeDay": 105,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
+    "dailyMinutesDown": {}
   }
 ]
