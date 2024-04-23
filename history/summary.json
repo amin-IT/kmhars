@@ -4,19 +4,19 @@
     "url": "hfj094ec6hm.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-internet",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 238,
-    "timeDay": 219,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
+    "time": 237,
+    "timeDay": 224,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2024-04-23": 3
+      "2024-04-23": 36
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "103.190.139.186",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-and-facebook-cache",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 710,
-    "timeDay": 421,
-    "timeWeek": 710,
-    "timeMonth": 710,
-    "timeYear": 710,
+    "status": "up",
+    "uptime": "98.72%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
+    "time": 690,
+    "timeDay": 526,
+    "timeWeek": 690,
+    "timeMonth": 690,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2024-04-23": 1
+      "2024-04-23": 35
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "kmhars.ookla.databyte-network.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-speedtest-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
     "time": 242,
-    "timeDay": 223,
+    "timeDay": 233,
     "timeWeek": 242,
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2024-04-23": 0
+      "2024-04-23": 33
     }
   },
   {
