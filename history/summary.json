@@ -4,18 +4,19 @@
     "url": "hfj094ec6hm.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-internet",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
     "time": 260,
     "timeDay": 255,
     "timeWeek": 236,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2024-05-04": 3,
       "2024-04-23": 155
     }
   },
@@ -42,18 +43,19 @@
     "url": "103.190.139.186",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-and-facebook-cache",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
     "time": 696,
     "timeDay": 843,
     "timeWeek": 695,
     "timeMonth": 696,
     "timeYear": 696,
     "dailyMinutesDown": {
+      "2024-05-04": 1,
       "2024-04-23": 144
     }
   },
@@ -80,7 +82,7 @@
     "url": "kmhars.ookla.databyte-network.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-speedtest-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -92,6 +94,7 @@
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
+      "2024-05-04": 0,
       "2024-04-25": 16,
       "2024-04-23": 140
     }
