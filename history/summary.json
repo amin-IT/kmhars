@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-internet",
     "status": "down",
-    "uptime": "97.18%",
-    "uptimeDay": "72.17%",
-    "uptimeWeek": "96.02%",
-    "uptimeMonth": "97.18%",
-    "uptimeYear": "97.18%",
+    "uptime": "97.12%",
+    "uptimeDay": "71.32%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "97.12%",
+    "uptimeYear": "97.12%",
     "time": 321,
     "timeDay": 585,
     "timeWeek": 396,
     "timeMonth": 321,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2024-05-04": 402,
+      "2024-05-04": 414,
       "2024-04-23": 155
     }
   },
@@ -43,10 +43,10 @@
     "url": "103.190.139.186",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-and-facebook-cache",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "87.74%",
-    "uptimeWeek": "98.25%",
+    "uptimeDay": "87.70%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "98.36%",
     "time": 672,
@@ -55,7 +55,7 @@
     "timeMonth": 672,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2024-05-04": 177,
+      "2024-05-04": 178,
       "2024-04-23": 144
     }
   },
