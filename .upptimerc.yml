@@ -15,12 +15,12 @@ sites:
     port: 80
     #maxResponseTime: 5000
     __dangerous__insecure: true
-  - name: KMHARS Backup Internet (G)
-    check: "tcp-ping"
-    url: hdh08hzryd0.sn.mynetname.net
-    port: 80
+ # - name: KMHARS Backup Internet (G)
+ #   check: "tcp-ping"
+ #   url: hdh08hzryd0.sn.mynetname.net
+ #   port: 80
     #maxResponseTime: 5000
-    __dangerous__insecure: true
+ #   __dangerous__insecure: true
   - name: KMHARS Backup Internet 2 (P)
     check: "tcp-ping"
     url: hfj094ec6hm.sn.mynetname.net
