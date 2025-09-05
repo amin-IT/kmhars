@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
     "status": "up",
-    "uptime": "73.26%",
+    "uptime": "73.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "90.10%",
@@ -270,8 +270,7 @@
       "2024-09-15": 64,
       "2024-09-14": 20,
       "2024-09-13": 814,
-      "2024-09-08": 18,
-      "2024-09-05": 16
+      "2024-09-08": 18
     }
   },
   {
@@ -315,7 +314,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
     "status": "up",
-    "uptime": "77.53%",
+    "uptime": "77.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -465,8 +464,7 @@
       "2024-10-06": 45,
       "2024-10-02": 46,
       "2024-09-14": 19,
-      "2024-09-13": 446,
-      "2024-09-05": 15
+      "2024-09-13": 446
     }
   },
   {
@@ -476,9 +474,9 @@
     "slug": "kmhars-website",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.48%",
     "time": 1872,
     "timeDay": 1393,
@@ -486,7 +484,6 @@
     "timeMonth": 1685,
     "timeYear": 2056,
     "dailyMinutesDown": {
-      "2025-09-04": 14,
       "2025-08-27": 20,
       "2025-08-19": 22,
       "2025-08-17": 21,
@@ -514,7 +511,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-speedtest-server",
     "status": "down",
-    "uptime": "13.74%",
+    "uptime": "13.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -525,7 +522,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-04": 1408,
+      "2025-09-05": 105,
+      "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -888,8 +886,7 @@
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
-      "2024-09-06": 1440,
-      "2024-09-05": 1440
+      "2024-09-06": 1440
     }
   },
   {
