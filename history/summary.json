@@ -4,11 +4,11 @@
     "url": "het09022amj.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
-    "status": "up",
-    "uptime": "78.36%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "87.14%",
-    "uptimeMonth": "96.78%",
+    "status": "down",
+    "uptime": "78.37%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "87.13%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "72.80%",
     "time": 299,
     "timeDay": 214,
@@ -16,7 +16,7 @@
     "timeMonth": 239,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-10-07": 22,
+      "2025-10-07": 23,
       "2025-10-06": 43,
       "2025-10-04": 49,
       "2025-10-02": 464,
@@ -160,8 +160,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1160,
-      "2025-02-01": 605,
-      "2025-01-17": 19
+      "2025-02-01": 605
     }
   },
   {
@@ -290,7 +289,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
     "status": "up",
-    "uptime": "78.97%",
+    "uptime": "78.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.90%",
@@ -486,7 +485,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-speedtest-server",
     "status": "down",
-    "uptime": "12.77%",
+    "uptime": "12.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -497,7 +496,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-07": 407,
+      "2025-10-07": 657,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
