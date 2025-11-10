@@ -11,9 +11,9 @@
     "uptimeMonth": "93.58%",
     "uptimeYear": "96.78%",
     "time": 293,
-    "timeDay": 255,
-    "timeWeek": 266,
-    "timeMonth": 250,
+    "timeDay": 211,
+    "timeWeek": 262,
+    "timeMonth": 249,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2025-11-07": 48,
@@ -87,10 +87,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.58%",
-    "time": 260,
-    "timeDay": 256,
-    "timeWeek": 248,
-    "timeMonth": 243,
+    "time": 259,
+    "timeDay": 205,
+    "timeWeek": 240,
+    "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-08-20": 23,
@@ -163,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 271,
-    "timeDay": 256,
-    "timeWeek": 277,
-    "timeMonth": 257,
+    "timeDay": 205,
+    "timeWeek": 269,
+    "timeMonth": 255,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-08-20": 58,
@@ -193,11 +193,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "76.77%",
+    "uptimeYear": "76.81%",
     "time": 256,
-    "timeDay": 277,
-    "timeWeek": 260,
-    "timeMonth": 255,
+    "timeDay": 229,
+    "timeWeek": 255,
+    "timeMonth": 253,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2025-10-14": 16,
@@ -311,8 +311,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -326,11 +325,11 @@
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.75%",
-    "time": 1987,
-    "timeDay": 1526,
-    "timeWeek": 1525,
-    "timeMonth": 1641,
-    "timeYear": 1713,
+    "time": 1988,
+    "timeDay": 1446,
+    "timeWeek": 1517,
+    "timeMonth": 1633,
+    "timeYear": 1712,
     "dailyMinutesDown": {
       "2025-11-09": 18,
       "2025-11-06": 26,
@@ -363,7 +362,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-speedtest-server",
     "status": "down",
-    "uptime": "11.90%",
+    "uptime": "11.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -374,7 +373,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-09": 1352,
+      "2025-11-10": 117,
+      "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -737,8 +737,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -753,9 +752,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 206,
-    "timeDay": 131,
-    "timeWeek": 1197,
-    "timeMonth": 618,
+    "timeDay": 168,
+    "timeWeek": 1202,
+    "timeMonth": 619,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-04-29": 16,
