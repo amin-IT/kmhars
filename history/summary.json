@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
     "status": "down",
-    "uptime": "97.29%",
-    "uptimeDay": "80.78%",
-    "uptimeWeek": "92.33%",
-    "uptimeMonth": "90.42%",
-    "uptimeYear": "96.12%",
-    "time": 276,
-    "timeDay": 206,
-    "timeWeek": 231,
+    "uptime": "97.26%",
+    "uptimeDay": "63.90%",
+    "uptimeWeek": "89.92%",
+    "uptimeMonth": "89.86%",
+    "uptimeYear": "96.07%",
+    "time": 273,
+    "timeDay": 0,
+    "timeWeek": 234,
     "timeMonth": 234,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-12-10": 277,
+      "2025-12-11": 121,
+      "2025-12-10": 399,
       "2025-12-06": 448,
       "2025-12-05": 49,
       "2025-11-27": 20,
@@ -88,11 +89,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "91.42%",
+    "uptimeYear": "91.47%",
     "time": 248,
-    "timeDay": 205,
-    "timeWeek": 231,
-    "timeMonth": 231,
+    "timeDay": 256,
+    "timeWeek": 237,
+    "timeMonth": 233,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-12-05": 47,
@@ -144,8 +145,7 @@
       "2024-12-21": 1440,
       "2024-12-20": 502,
       "2024-12-18": 30,
-      "2024-12-16": 17,
-      "2024-12-11": 535
+      "2024-12-16": 17
     }
   },
   {
@@ -158,11 +158,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.82%",
     "time": 268,
-    "timeDay": 208,
-    "timeWeek": 229,
-    "timeMonth": 230,
+    "timeDay": 257,
+    "timeWeek": 235,
+    "timeMonth": 232,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-12-05": 46,
@@ -175,8 +175,7 @@
       "2025-04-26": 53,
       "2025-03-26": 23,
       "2025-03-21": 29,
-      "2024-12-16": 16,
-      "2024-12-11": 533
+      "2024-12-16": 16
     }
   },
   {
@@ -189,11 +188,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "85.25%",
+    "uptimeYear": "85.30%",
     "time": 256,
-    "timeDay": 219,
-    "timeWeek": 241,
-    "timeMonth": 243,
+    "timeDay": 278,
+    "timeWeek": 251,
+    "timeMonth": 245,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2025-12-02": 18,
@@ -277,8 +276,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
-      "2024-12-12": 1440,
-      "2024-12-11": 1440
+      "2024-12-12": 1440
     }
   },
   {
@@ -288,17 +286,17 @@
     "slug": "kmhars-website",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "98.16%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "98.18%",
     "uptimeYear": "99.59%",
-    "time": 1828,
-    "timeDay": 1547,
-    "timeWeek": 1524,
-    "timeMonth": 1495,
-    "timeYear": 1652,
+    "time": 1829,
+    "timeDay": 1779,
+    "timeWeek": 1532,
+    "timeMonth": 1497,
+    "timeYear": 1653,
     "dailyMinutesDown": {
-      "2025-12-10": 31,
+      "2025-12-10": 24,
       "2025-12-09": 24,
       "2025-12-07": 133,
       "2025-12-06": 119,
@@ -352,13 +350,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 230,
+    "time": 229,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-10": 1318,
+      "2025-12-11": 121,
+      "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -721,8 +720,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
-      "2024-12-12": 1440,
-      "2024-12-11": 1440
+      "2024-12-12": 1440
     }
   },
   {
@@ -737,9 +735,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 143,
-    "timeWeek": 931,
-    "timeMonth": 336,
+    "timeDay": 115,
+    "timeWeek": 213,
+    "timeMonth": 335,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2025-04-29": 16,
