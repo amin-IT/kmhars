@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
     "status": "up",
-    "uptime": "97.26%",
+    "uptime": "97.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.62%",
     "uptimeYear": "95.93%",
-    "time": 268,
-    "timeDay": 243,
-    "timeWeek": 227,
+    "time": 269,
+    "timeDay": 235,
+    "timeWeek": 230,
     "timeMonth": 242,
     "timeYear": 274,
     "dailyMinutesDown": {
@@ -91,14 +91,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-internet-d",
     "status": "up",
-    "uptime": "92.90%",
+    "uptime": "92.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "94.11%",
+    "uptimeYear": "94.39%",
     "time": 241,
-    "timeDay": 245,
-    "timeWeek": 227,
+    "timeDay": 237,
+    "timeWeek": 232,
     "timeMonth": 233,
     "timeYear": 240,
     "dailyMinutesDown": {
@@ -138,8 +138,7 @@
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
-      "2025-01-01": 1440,
-      "2024-12-31": 1440
+      "2025-01-01": 1440
     }
   },
   {
@@ -154,9 +153,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 268,
-    "timeDay": 244,
-    "timeWeek": 227,
-    "timeMonth": 238,
+    "timeDay": 233,
+    "timeWeek": 231,
+    "timeMonth": 237,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-12-05": 46,
@@ -177,14 +176,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
     "status": "up",
-    "uptime": "81.97%",
+    "uptime": "82.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "90.50%",
+    "uptimeYear": "90.78%",
     "time": 255,
-    "timeDay": 254,
-    "timeWeek": 234,
+    "timeDay": 242,
+    "timeWeek": 238,
     "timeMonth": 244,
     "timeYear": 255,
     "dailyMinutesDown": {
@@ -249,8 +248,7 @@
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
-      "2025-01-01": 1440,
-      "2024-12-31": 1440
+      "2025-01-01": 1440
     }
   },
   {
@@ -260,14 +258,14 @@
     "slug": "kmhars-website",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "97.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.55%",
     "time": 1808,
-    "timeDay": 1572,
-    "timeWeek": 1499,
-    "timeMonth": 1534,
+    "timeDay": 1834,
+    "timeWeek": 1510,
+    "timeMonth": 1536,
     "timeYear": 1635,
     "dailyMinutesDown": {
       "2025-12-29": 29,
@@ -327,10 +325,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-speedtest-server",
     "status": "down",
-    "uptime": "10.80%",
+    "uptime": "10.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 241,
     "timeDay": 0,
@@ -338,7 +336,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-30": 122,
+      "2025-12-31": 122,
+      "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -701,8 +700,7 @@
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
-      "2025-01-01": 1440,
-      "2024-12-31": 1440
+      "2025-01-01": 1440
     }
   },
   {
@@ -716,11 +714,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 219,
-    "timeDay": 189,
-    "timeWeek": 178,
-    "timeMonth": 348,
-    "timeYear": 234,
+    "time": 224,
+    "timeDay": 2910,
+    "timeWeek": 430,
+    "timeMonth": 411,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2025-04-29": 16,
       "2025-04-25": 18
