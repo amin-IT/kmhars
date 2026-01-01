@@ -11,9 +11,9 @@
     "uptimeMonth": "95.62%",
     "uptimeYear": "95.93%",
     "time": 269,
-    "timeDay": 235,
-    "timeWeek": 230,
-    "timeMonth": 242,
+    "timeDay": 246,
+    "timeWeek": 235,
+    "timeMonth": 243,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-12-21": 61,
@@ -91,15 +91,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-internet-d",
     "status": "up",
-    "uptime": "92.92%",
+    "uptime": "92.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "94.59%",
+    "uptimeYear": "94.66%",
     "time": 241,
-    "timeDay": 237,
-    "timeWeek": 232,
-    "timeMonth": 233,
+    "timeDay": 245,
+    "timeWeek": 237,
+    "timeMonth": 234,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-12-20": 152,
@@ -137,8 +137,7 @@
       "2025-01-05": 1440,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
-      "2025-01-02": 1440,
-      "2025-01-01": 1440
+      "2025-01-02": 1440
     }
   },
   {
@@ -147,15 +146,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-backup-internet-2-p",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 268,
-    "timeDay": 233,
-    "timeWeek": 231,
-    "timeMonth": 237,
+    "timeDay": 240,
+    "timeWeek": 235,
+    "timeMonth": 239,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-12-05": 46,
@@ -176,15 +175,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
     "status": "up",
-    "uptime": "82.02%",
+    "uptime": "82.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "90.98%",
+    "uptimeYear": "91.05%",
     "time": 255,
-    "timeDay": 242,
-    "timeWeek": 238,
-    "timeMonth": 244,
+    "timeDay": 265,
+    "timeWeek": 247,
+    "timeMonth": 245,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2025-12-02": 18,
@@ -247,8 +246,7 @@
       "2025-01-05": 1440,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
-      "2025-01-02": 1440,
-      "2025-01-01": 1440
+      "2025-01-02": 1440
     }
   },
   {
@@ -259,14 +257,14 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "96.98%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.19%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.24%",
     "uptimeYear": "99.54%",
-    "time": 1803,
-    "timeDay": 1504,
-    "timeWeek": 1501,
-    "timeMonth": 1542,
-    "timeYear": 1633,
+    "time": 1798,
+    "timeDay": 1547,
+    "timeWeek": 1514,
+    "timeMonth": 1543,
+    "timeYear": 1634,
     "dailyMinutesDown": {
       "2025-12-31": 43,
       "2025-12-29": 29,
@@ -337,7 +335,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-31": 1224,
+      "2026-01-01": 133,
+      "2025-12-31": 1440,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -700,8 +699,7 @@
       "2025-01-05": 1440,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
-      "2025-01-02": 1440,
-      "2025-01-01": 1440
+      "2025-01-02": 1440
     }
   },
   {
@@ -716,8 +714,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 2910,
-    "timeWeek": 430,
+    "timeDay": 185,
+    "timeWeek": 480,
     "timeMonth": 411,
     "timeYear": 241,
     "dailyMinutesDown": {
