@@ -4,18 +4,19 @@
     "url": "het09022amj.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
-    "status": "up",
-    "uptime": "97.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.68%",
+    "status": "down",
+    "uptime": "97.32%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.75%",
     "uptimeMonth": "97.87%",
-    "uptimeYear": "95.85%",
+    "uptimeYear": "95.86%",
     "time": 267,
     "timeDay": 254,
     "timeWeek": 240,
     "timeMonth": 243,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2026-01-20": 1,
       "2026-01-17": 52,
       "2026-01-14": 16,
       "2026-01-13": 64,
@@ -88,7 +89,7 @@
       "2025-06-14": 76,
       "2025-06-13": 958,
       "2025-06-12": 1005,
-      "2025-06-11": 77
+      "2025-06-11": 36
     }
   },
   {
@@ -171,7 +172,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.26%",
+    "uptimeYear": "96.27%",
     "time": 255,
     "timeDay": 262,
     "timeWeek": 238,
@@ -320,7 +321,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-20": 125,
+      "2026-01-20": 179,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
