@@ -11,8 +11,8 @@
     "uptimeMonth": "98.09%",
     "uptimeYear": "95.84%",
     "time": 268,
-    "timeDay": 263,
-    "timeWeek": 311,
+    "timeDay": 204,
+    "timeWeek": 306,
     "timeMonth": 265,
     "timeYear": 274,
     "dailyMinutesDown": {
@@ -104,9 +104,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
     "time": 239,
-    "timeDay": 260,
-    "timeWeek": 245,
-    "timeMonth": 237,
+    "timeDay": 204,
+    "timeWeek": 237,
+    "timeMonth": 236,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-12-20": 152,
@@ -145,8 +145,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 264,
-    "timeDay": 461,
-    "timeWeek": 332,
+    "timeDay": 202,
+    "timeWeek": 325,
     "timeMonth": 289,
     "timeYear": 245,
     "dailyMinutesDown": {
@@ -168,15 +168,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
     "status": "up",
-    "uptime": "82.78%",
+    "uptime": "82.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.11%",
-    "time": 255,
-    "timeDay": 283,
-    "timeWeek": 254,
-    "timeMonth": 249,
+    "uptimeYear": "98.17%",
+    "time": 254,
+    "timeDay": 212,
+    "timeWeek": 246,
+    "timeMonth": 248,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2025-12-02": 18,
@@ -213,8 +213,7 @@
       "2025-01-31": 87,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
-      "2025-01-28": 1440,
-      "2025-01-27": 1440
+      "2025-01-28": 1440
     }
   },
   {
@@ -230,8 +229,8 @@
     "uptimeYear": "99.55%",
     "time": 1634,
     "timeDay": 1308,
-    "timeWeek": 1315,
-    "timeMonth": 1444,
+    "timeWeek": 1297,
+    "timeMonth": 1442,
     "timeYear": 1574,
     "dailyMinutesDown": {
       "2026-01-26": 23,
@@ -320,7 +319,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-26": 1248,
+      "2026-01-27": 132,
+      "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -683,8 +683,7 @@
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
-      "2025-01-28": 1440,
-      "2025-01-27": 1440
+      "2025-01-28": 1440
     }
   },
   {
@@ -699,8 +698,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 228,
-    "timeDay": 105,
-    "timeWeek": 231,
+    "timeDay": 188,
+    "timeWeek": 238,
     "timeMonth": 286,
     "timeYear": 244,
     "dailyMinutesDown": {
