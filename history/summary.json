@@ -6,7 +6,7 @@
     "slug": "kmhars-main-fiber-line",
     "status": "up",
     "uptime": "97.13%",
-    "uptimeDay": "83.32%",
+    "uptimeDay": "95.53%",
     "uptimeWeek": "68.01%",
     "uptimeMonth": "90.33%",
     "uptimeYear": "95.35%",
@@ -180,11 +180,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
     "status": "up",
-    "uptime": "83.35%",
+    "uptime": "83.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.29%",
     "time": 253,
     "timeDay": 203,
     "timeWeek": 219,
@@ -217,8 +217,7 @@
       "2025-03-06": 262,
       "2025-03-05": 1281,
       "2025-02-27": 133,
-      "2025-02-25": 196,
-      "2025-02-17": 66
+      "2025-02-25": 196
     }
   },
   {
@@ -228,17 +227,16 @@
     "slug": "kmhars-website",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "96.27%",
-    "uptimeMonth": "98.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "99.47%",
     "time": 1718,
     "timeDay": 1118,
     "timeWeek": 1164,
-    "timeMonth": 1335,
+    "timeMonth": 1326,
     "timeYear": 1549,
     "dailyMinutesDown": {
-      "2026-02-16": 12,
       "2026-02-15": 190,
       "2026-02-14": 73,
       "2026-02-13": 52,
@@ -305,7 +303,8 @@
       "2025-09-29": 20,
       "2025-09-18": 23,
       "2025-09-16": 21,
-      "2025-09-06": 23
+      "2025-09-06": 23,
+      "2025-08-27": 20
     }
   },
   {
@@ -325,7 +324,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-16": 1419,
+      "2026-02-17": 155,
+      "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -688,8 +688,7 @@
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
-      "2025-02-18": 1440,
-      "2025-02-17": 1440
+      "2025-02-18": 1440
     }
   },
   {
